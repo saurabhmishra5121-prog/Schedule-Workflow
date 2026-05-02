@@ -7,7 +7,7 @@ jobs:
      runs-on: ubuntu-latest
 
      steps:
-     - name: Print Message
-       run: echo "Schedule"
+       - name: Print Message
+         run: echo "Schedule"
      
    
